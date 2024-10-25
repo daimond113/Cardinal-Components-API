@@ -108,9 +108,9 @@ tasks.javadoc {
         links(
             "https://guava.dev/releases/21.0/api/docs/",
             "https://asm.ow2.io/javadoc/",
-            "https://docs.oracle.com/javase/8/docs/api/",
-            "http://jenkins.liteloader.com/job/Mixin/javadoc/",
-            "https://logging.apache.org/log4j/2.x/log4j-api/apidocs/"
+            "https://docs.oracle.com/en/java/javase/21/docs/api/",
+            "https://jenkins.liteloader.com/job/Mixin/javadoc/",
+            "https://logging.apache.org/log4j/2.x/javadoc/log4j-api/"
             // Need to add minecraft jd publication etc once there is one available
         )
         // Disable the crazy super-strict doclint tool in Java 8
